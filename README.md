@@ -1,6 +1,8 @@
 # 2026 S1 ECOM1
 
-Tutorial slides and code prepared by Zheng Fan for QM1 at the University of Melbourne for the use of running tutorials.
+**Please use these materials with caution; errors may not be corrected. Please refer to the final solution for details.**
+
+Tutorial slides and code prepared by Zheng Fan for ECOM1 at the University of Melbourne for the use of running tutorials.
 
 Property of the University of Melbourne. Subject to copyright! You should not disseminate, distribute, or copy.
 
